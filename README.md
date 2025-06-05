@@ -21,7 +21,7 @@ This dashboard provides an extensive view of banking-related metrics including c
 >Customer segmentation
 >Loan and deposit trends
 >Credit default risk visualization
-### [Dashboard Title]
+### [BANKING ANALYSIS]
 ![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095245.png)
 ![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095255.png)
 
@@ -42,9 +42,9 @@ This dashboard analyzes weather trends over time using real-time data fetched vi
 >Predictive analytics with future trend forecasting
 >Multi-unit toggle (Celsius & Fahrenheit)
 
-### [Dashboard Title]
+### [WEATHER ANALYSIS]
 ![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095134.png)
-![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095159.png)
+![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095143.png)
 ![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095159.png)
 
 
@@ -66,5 +66,5 @@ This dashboard explores the growth of electric vehicles across different states,
 >CAFE eligibility overview
 >State-wise distribution on a map
 
-### [Dashboard Title]
+### [ELECTRIC VEHICLES]
 ![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20092422.png)
