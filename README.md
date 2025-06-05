@@ -22,8 +22,8 @@ This dashboard provides an extensive view of banking-related metrics including c
 >Loan and deposit trends
 >Credit default risk visualization
 ### [Dashboard Title]
-![Dashboard Screenshot](PASTE_IMAGE_URL_HERE)
-
+![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095245.png)
+![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095255.png)
 
 
 
@@ -43,7 +43,9 @@ This dashboard analyzes weather trends over time using real-time data fetched vi
 >Multi-unit toggle (Celsius & Fahrenheit)
 
 ### [Dashboard Title]
-![Dashboard Screenshot](PASTE_IMAGE_URL_HERE)
+![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095134.png)
+![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095159.png)
+![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20095159.png)
 
 
 🔹 Other Dashboard Projects
@@ -65,4 +67,4 @@ This dashboard explores the growth of electric vehicles across different states,
 >State-wise distribution on a map
 
 ### [Dashboard Title]
-![Dashboard Screenshot](PASTE_IMAGE_URL_HERE)
+![Dashboard Screenshot](https://github.com/Abhaykush584/Projects-Dashboards/blob/main/dashboard%20ss/Screenshot%202025-06-05%20092422.png)
